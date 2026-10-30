@@ -1,0 +1,17 @@
+--extra-index-url https://download.pytorch.org/whl/cu130
+torch==2.9.1+cu130
+einops==0.8.2
+huggingface-hub==1.22.0
+safetensors==0.8.0
+pyarrow==23.0.0
+chronos-forecasting==2.3.1
+transformers==5.13.0
+numpy==1.26.4
+pandas==2.3.3
+fev==0.9.0
+datasets==4.8.5
+gluonts==0.16.3
+scipy==1.17.0
+pyyaml>=6
+tqdm>=4.66
+python-dotenv>=1

@@ -1,0 +1,14 @@
+{
+  "fev": {
+    "repo_id": "autogluon/fev_datasets",
+    "revision": "f71c0fff4cf81283a2c43e7f3a73aa4f9826aef8"
+  },
+  "gift": {
+    "repo_id": "Salesforce/GiftEval",
+    "revision": "30841734ac5cfddbd0c3bad6d09d2b6b32becbb0"
+  },
+  "time": {
+    "repo_id": "Real-TSF/TIME",
+    "revision": "83e3d0b3be28d11c7182bffcc1892d19b36c4da1"
+  }
+}
