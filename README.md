@@ -193,6 +193,18 @@ Results are written to `groups.csv` and `summary.json`.
 For a quick check, append `--max-groups 1` and use a separate output directory.
 To distribute evaluation across GPUs, run shards `--shard-index 0` through `15`, then aggregate with `--score-only`.
 
+## License
+
+Original PathFM material in this repository is licensed under the
+[Creative Commons Attribution-NonCommercial 4.0 International license (CC BY-NC 4.0)](LICENSE).
+Sharing and adaptation are permitted for noncommercial purposes with attribution,
+subject to the license terms.
+
+Third-party material retains its original licenses and notices; see
+[THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+Downloaded datasets and model checkpoints are governed by the licenses provided
+with their respective source repositories.
+
 ## Citation
 
 If you use PathFM or fps-bench in your research, please cite:

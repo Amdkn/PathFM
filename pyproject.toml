@@ -7,6 +7,12 @@ name = "pathfm"
 version = "0.1.0"
 description = "Coherent time-series forecasts with pretrained PathFM models."
 readme = "README.md"
+license = "CC-BY-NC-4.0 AND Apache-2.0 AND MIT"
+license-files = [
+    "LICENSE",
+    "THIRD_PARTY_NOTICES.md",
+    "src/pathfm/benchmarks/protocols/*-LICENSE",
+]
 requires-python = ">=3.11,<3.13"
 dependencies = [
     "torch==2.9.1",
