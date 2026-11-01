@@ -193,6 +193,14 @@ Results are written to `groups.csv` and `summary.json`.
 For a quick check, append `--max-groups 1` and use a separate output directory.
 To distribute evaluation across GPUs, run shards `--shard-index 0` through `15`, then aggregate with `--score-only`.
 
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
+
+## Security
+
+See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+
 ## License
 
 Original PathFM material in this repository is licensed under the
