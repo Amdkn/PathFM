@@ -33,7 +33,7 @@ notebooks = [
 ]
 benchmarks = [
     "fev==0.9.0",
-    "datasets==4.8.5",
+    "datasets==5.0.1",
     "gluonts==0.16.3",
     "scipy==1.17.0",
     "pyyaml>=6",
