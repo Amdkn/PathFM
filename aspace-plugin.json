@@ -1,0 +1,24 @@
+{
+  "$schema": "https://aspaceos.tech/schemas/cordis-fiber-v5.json",
+  "name": "@aspace-v5/PathFM",
+  "submodule_path": "01_Forkable/FKB00_Runtime/02_PredictiveWargame_MachineLearning/PathFM",
+  "sovereign_fork_url": "https://github.com/Amdkn/PathFM.git",
+  "branch": "aspace-v5-native",
+  "family": "NEURO_TABULAR_TEMPORAL_CHAOTIC_WARGAME",
+  "fractal_layer": "16L",
+  "holon_owner": "S2-SOL / B1..I1",
+  "capabilities": [
+    "mitra_8vote_icl",
+    "chronos_timesfm_quantiles",
+    "pathfm_chaotic_rollout",
+    "mirofish_swarm"
+  ],
+  "a0_integration_target": "01_Forkable/FKB00_Runtime/02_PredictiveWargame_MachineLearning/triptych_autogluon_engine.py",
+  "egm_gateway_endpoint": "http://127.0.0.1:31415/v1/chat/completions",
+  "shared_brain_path": "00_Memoire/shared_brain/memory.jsonl",
+  "cordis_contract": {
+    "everything_is_a_plugin": true,
+    "revertible_effects": true,
+    "reactive_coeffects": true
+  }
+}
